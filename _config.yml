@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Your Name / Site Title"
+title                    : "Henrique Arsego / Pagina Acadêmica"
 title_separator          : "-"
 name                     : &name "Henrique Arsego"
 description              : &description "Graduando da Ciência da Computação"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Henrique Arsego"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Acadêmico de Ciência da COmputação"
+  location         : "Chapecó"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "harsego.github.io"
   google_plus      :
   keybase          :
   instagram        :
