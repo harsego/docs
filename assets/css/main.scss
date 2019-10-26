@@ -11,7 +11,12 @@
 */
 
 body {
+  color: #c2cdd6;
   background-color: #001725;}
+.greedy-nav {
+  background: #002c48;}
+.greedy-nav a {
+  color: #c2cdd6;}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
